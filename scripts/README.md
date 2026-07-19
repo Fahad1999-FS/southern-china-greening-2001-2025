@@ -10,9 +10,7 @@ Produces: corrected regional means and trend tables, pixel-wise MK/Sen maps and
 area summaries, dry correlation rasters, endpoint sensitivity, and corrected
 figures.
 
-> **Place the script here.** It lives outside the tracked project directory in
-> the original working tree; copy it into this folder before publishing the
-> repository.
+
 
 ### Requirements
 
