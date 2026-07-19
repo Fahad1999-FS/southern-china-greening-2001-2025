@@ -1,0 +1,8 @@
+# Core analysis
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+Pillow>=10.0        # GeoTIFF reading for correlation_area_summary.py
+
+# Optional: only needed if regenerating wavelet coherence from monthly series
+# pycwt>=0.4.0b1

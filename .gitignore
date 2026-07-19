@@ -1,0 +1,34 @@
+# Raster data - too large for git; see docs/DATA.md
+*.tif
+*.tiff
+*.img
+*.hdf
+
+# Large intermediate stacks
+Stacks/
+Maps_GeoTIFF/
+*.nc
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Office temp files
+~$*.docx
+~$*.xlsx
