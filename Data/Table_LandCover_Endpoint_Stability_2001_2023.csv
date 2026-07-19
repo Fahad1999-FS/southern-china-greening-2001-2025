@@ -1,0 +1,18 @@
+comparison,valid_pixels_both_years,pixels_changed,percent_changed,pixels_unchanged,percent_unchanged,baseline_class_code,baseline_class_label,baseline_pixel_count,pixels_changed_by_2023,percent_changed_by_2023
+MCD12Q1 LC_Type1 2001 versus 2023,1463893.0,579038.0,39.554666905299776,884855.0,60.445333094700224,1,Evergreen needleleaf forest,24332,8303,34.12378760480026
+,,,,,,2,Evergreen broadleaf forest,140820,20336,14.441130521232779
+,,,,,,3,Deciduous needleleaf forest,2,2,100.0
+,,,,,,4,Deciduous broadleaf forest,6166,3542,57.44404800518975
+,,,,,,5,Mixed forest,96141,40828,42.4667935636201
+,,,,,,6,Closed shrubland,194,192,98.96907216494846
+,,,,,,7,Open shrubland,38,37,97.36842105263158
+,,,,,,8,Woody savanna,483282,205037,42.4259542047914
+,,,,,,9,Savanna,401386,156053,38.87853587319936
+,,,,,,10,Grassland,36344,24537,67.5132071318512
+,,,,,,11,Permanent wetland,14142,9582,67.75562155282138
+,,,,,,12,Cropland,76716,38011,49.54768236091559
+,,,,,,13,Urban and built-up,34322,813,2.3687430802400793
+,,,,,,14,Cropland/natural mosaic,130634,69760,53.40110537838541
+,,,,,,15,Snow and ice,117,74,63.24786324786325
+,,,,,,16,Barren or sparse vegetation,1513,1157,76.47058823529412
+,,,,,,17,Water,17744,774,4.362037871956717

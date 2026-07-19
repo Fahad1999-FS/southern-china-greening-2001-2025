@@ -1,0 +1,4 @@
+"season","analysis_years","definition","months_per_composite"
+"Annual","2001-2025","January-December of the calendar year",12
+"Dry","2002-2025","October-December of previous year plus January-March of focal year; only complete seasons retained",6
+"Wet","2001-2025","April-September of the calendar year",6

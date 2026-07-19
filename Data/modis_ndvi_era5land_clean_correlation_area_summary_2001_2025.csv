@@ -1,0 +1,32 @@
+"variable","season","class_id","class_label","area_km2","percent"
+"Precipitation","Annual",1,"< -0.40",8944.93006371137,0.535138564718539
+"Precipitation","Annual",2,"-0.40 to -0.20",332.258007961924,0.0198776370782726
+"Precipitation","Annual",4,"Not significant",1544243.88250342,92.3857927308807
+"Precipitation","Annual",6,"0.20 to 0.40",6229.68326369154,0.372696458959208
+"Precipitation","Annual",7,"> 0.40",111765.868854267,6.6864946083633
+"Precipitation","Dry",4,"Not significant",776970.984759637,46.4829947971358
+"Precipitation","Dry",6,"0.20 to 0.40",16749.7179450502,1.00206708791593
+"Precipitation","Dry",7,"> 0.40",877795.919988292,52.5149381149483
+"Precipitation","Wet",1,"< -0.40",5948.51335552607,0.35587521384874
+"Precipitation","Wet",2,"-0.40 to -0.20",336.74162512476,0.0201458735469962
+"Precipitation","Wet",4,"Not significant",1613295.42470256,96.5168639545639
+"Precipitation","Wet",6,"0.20 to 0.40",1363.58875048973,0.0815779353897663
+"Precipitation","Wet",7,"> 0.40",50572.3542593365,3.02553702265059
+"Temperature","Annual",4,"Not significant",622214.778411692,37.224564205005
+"Temperature","Annual",6,"0.20 to 0.40",12775.8236432147,0.764325252274868
+"Temperature","Annual",7,"> 0.40",1036526.0206381,62.0111105427201
+"Temperature","Dry",4,"Not significant",926541.766714808,55.4312026656392
+"Temperature","Dry",6,"0.20 to 0.40",15943.4927377156,0.953833932684962
+"Temperature","Dry",7,"> 0.40",729031.363240482,43.6149634016758
+"Temperature","Wet",4,"Not significant",784383.30765453,46.9264437460869
+"Temperature","Wet",6,"0.20 to 0.40",12754.2391647189,0.763033941246139
+"Temperature","Wet",7,"> 0.40",874379.075873767,52.3105223126669
+"Solar radiation","Annual",1,"< -0.40",379875.301312128,22.7256608819858
+"Solar radiation","Annual",2,"-0.40 to -0.20",26388.7225202994,1.57867899553805
+"Solar radiation","Annual",4,"Not significant",1265305.85167006,75.6956601224761
+"Solar radiation","Dry",4,"Not significant",1507801.12031373,90.2026976204293
+"Solar radiation","Dry",6,"0.20 to 0.40",3971.27492410203,0.237577560011252
+"Solar radiation","Dry",7,"> 0.40",159797.480264693,9.5597248195594
+"Solar radiation","Wet",1,"< -0.40",127907.47952802,7.65193734360443
+"Solar radiation","Wet",2,"-0.40 to -0.20",11251.6191794289,0.673116891152772
+"Solar radiation","Wet",4,"Not significant",1532410.77679508,91.6749457652428

@@ -1,0 +1,5 @@
+"item","note"
+"Main endpoint sensitivity result","All 21-25 year endpoint windows remain positive for Annual, Dry, and Wet NDVI."
+"Split-period robustness result","The early and late subperiods should be reported as a sensitivity check, not as replacement for the full-period trend because each subperiod has fewer years."
+"Climate-adjusted model result","The GLS AR(1) model with standardized climate covariates tests whether the time trend persists after precipitation, temperature, and solar radiation are included."
+"Recommended use in manuscript","Use the endpoint sensitivity table/figure and climate-adjusted GLS table as reviewer-defense material; put detailed tables in Supplementary Materials if the main text is tight."

@@ -1,0 +1,10 @@
+"season","analysis_years","class","class_label","area_km2","percent"
+"Annual","2001-2025",1,"Significant increasing",1665968.4596465,99.6329196089703
+"Annual","2001-2025",2,"Insignificant increasing",5997.6367748584,0.358687500458481
+"Annual","2001-2025",3,"Insignificant decreasing",140.33806328022,0.00839289057119582
+"Dry","2002-2025",1,"Significant increasing",1661000.0552721,99.3357851519807
+"Dry","2002-2025",2,"Insignificant increasing",10461.0957209174,0.625623794345467
+"Dry","2002-2025",3,"Insignificant decreasing",645.283491615621,0.0385910536738356
+"Wet","2001-2025",1,"Significant increasing",1629566.35153037,97.4558986152496
+"Wet","2001-2025",2,"Insignificant increasing",40124.7256734021,2.39965141248739
+"Wet","2001-2025",3,"Insignificant decreasing",2415.35728082101,0.144449972263011

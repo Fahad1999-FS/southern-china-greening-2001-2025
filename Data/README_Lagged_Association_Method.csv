@@ -1,0 +1,5 @@
+item,detail
+Input,"Monthly regional detrended, deseasonalized, standardized MODIS NDVI and ERA5-Land climate anomalies, 2001-2025."
+Lag convention,A positive lag L correlates NDVI at month t with climate at month t-L; climate therefore precedes NDVI.
+Inference,Pearson correlation p values use an effective sample size estimated from lag-1 autocorrelation in each paired series.
+Multiple testing,Benjamini-Hochberg adjustment is applied across 21 tests (3 variables by 7 lags).

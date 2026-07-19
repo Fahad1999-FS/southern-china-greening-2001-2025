@@ -1,0 +1,12 @@
+"season","driver","class","class_label","area_km2","percent"
+"Annual","PPT",-1,"Negative significant",9305.37871412471,0.556506363603142
+"Annual","PPT",1,"Positive significant",117995.552117958,7.05670103795306
+"Annual","Temp",1,"Positive significant",1049354.30441326,62.7564300197597
+"Annual","Sradi",-1,"Negative significant",406316.48396437,24.2996782731475
+"Dry","PPT",1,"Positive significant",894658.163404181,53.5048574034054
+"Dry","Temp",1,"Positive significant",745027.316110133,44.5562136922074
+"Dry","Sradi",1,"Positive significant",163825.125793031,9.79752977528145
+"Wet","PPT",-1,"Negative significant",6341.62558488608,0.379259684317917
+"Wet","PPT",1,"Positive significant",51935.9430098257,3.10601896737706
+"Wet","Temp",1,"Positive significant",887133.315038501,53.0548353108824
+"Wet","Sradi",-1,"Negative significant",139159.09870745,8.32238282429303
