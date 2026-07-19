@@ -111,5 +111,4 @@ Code is released under the [MIT License](LICENSE). Derived data tables and figur
 
 ## Contact
 
-Kaleem Mehmood — kaleemmehmood73@gmail.com
-Beijing Forestry University · Institute of Forest Science, University of Swat
+
